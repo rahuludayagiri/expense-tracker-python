@@ -32,6 +32,7 @@ Expense-Tracker/
 ├── report.py      # Generates graphical reports
 ├── expenses.db    # SQLite database file
 └── README.md      # Project documentation
+└── screenshots    # ScreenShots of application
 
 ## How to Run the Project
 
@@ -62,6 +63,21 @@ Save the file.
 ```
 
 ---
+
+## 📸 Screenshots
+
+### Home Screen
+
+![Home](screenshots/01_home.png)
+
+
+### Add Expense
+
+![Add Expense](screenshots/02_add_expense.png)
+
+
+### Result Evaluation
+![Result](screenshots/03_result.png)
 
 ## Future Enhancements
 
